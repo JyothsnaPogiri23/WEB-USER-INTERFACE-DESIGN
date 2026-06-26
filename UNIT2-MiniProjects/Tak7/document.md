@@ -219,7 +219,7 @@ The Restaurant Website project successfully demonstrates the implementation of r
 GitHub Repository Link:
 
 ```
-https://github.com/YourUsername/Restaurant-Website
+https://github.com/JyothsnaPogiri23/WEB-USER-INTERFACE-DESIGN
 ```
 
 Replace the above URL with your GitHub repository link after uploading the project.
