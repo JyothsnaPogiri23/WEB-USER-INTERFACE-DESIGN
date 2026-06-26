@@ -221,5 +221,3 @@ GitHub Repository Link:
 ```
 https://github.com/JyothsnaPogiri23/WEB-USER-INTERFACE-DESIGN
 ```
-
-Replace the above URL with your GitHub repository link after uploading the project.
